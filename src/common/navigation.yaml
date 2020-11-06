@@ -13,6 +13,7 @@ sections:
           - path: /stacking
           - path: /local-development
           - path: /technical-specs
+          - path: /stacks-blockchain-api
         sections:
           - title: Tutorials
             pages:
@@ -93,7 +94,9 @@ sections:
         pages:
           - path: /blockstack-cli
           - path: /stacking-contract
-          - path: /stacks-blockchain-api
+          - external:
+              href: 'https://blockstack.github.io/stacks-blockchain-api/'
+              title: Stacks Blockchain API
           - path: /stacks-node-configuration
           - external:
               href: 'https://blockstack.github.io/stacks.js/'

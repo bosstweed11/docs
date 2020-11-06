@@ -30,6 +30,13 @@ You can view accounts, blocks, transactions, and smart contracts broadcasted to 
 
 -> The Explorer consumes the [Stacks 2.0 Blockchain API](https://blockstack.github.io/stacks-blockchain-api/). You can use this public API for programmatic access to the blockchain.
 
+## API
+
+You can use the Stacks 2.0 Blockchain API to query the blockchain and interact with smart contracts.
+
+[@page-reference | inline]
+| /understand-stacks/stacks-blockchain-api
+
 ## Tutorials
 
 [@page-reference | grid-small]
