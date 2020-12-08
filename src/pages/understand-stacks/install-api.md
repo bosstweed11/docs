@@ -8,6 +8,8 @@ tags:
 
 ## Introduction
 
+!> The instruction below were written for an older version of the Stacks blockchain. They are likely outdated and will be deprecated with the release of Stacks 2.0
+
 - **Step 1:** Make sure you have a Stacks Node running locally (see [instructions](https://github.com/blockstack/blockstack-core/blob/master/README.md#quick-start)).
 
 - **Step 2:** Make sure you have [virtualenv installed](http://docs.python-guide.org/en/latest/dev/virtualenvs/).
