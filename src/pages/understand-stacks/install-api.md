@@ -24,8 +24,8 @@ $ cd blockstack-core/
 $ git checkout stacks-1.0
 $ pip install .
 $ pip install -r api/requirements.txt
-$ blockstack setup_wallet
-$ blockstack api start
+$ stx setup_wallet
+$ stx api start
 $ deactivate
 $ ./build_docs.sh public_api
 ```
